@@ -202,7 +202,7 @@ body:has(.project-img:active)::after {
 }
 
 .perfil_image{
-    box-shadow: 0 0 0 10px beige, 0 0 0 15px gainsboro;
+    box-shadow: 0 0 0 10px whitesmoke, 0 0 0 15px gainsboro;
     margin: 15px; /* Necesario para que el borde no se corte */
     outline-offset: 5px;
     float: right;
