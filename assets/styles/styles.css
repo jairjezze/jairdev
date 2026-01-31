@@ -24,7 +24,7 @@ header {
     position: fixed;
     top: 0;
     width: 100%;
-    padding: 30px 6%;
+    padding: 20px 1%;
     z-index: 1000;
     background: rgba(255,255,255,0.8);
     backdrop-filter: blur(10px);
@@ -36,7 +36,7 @@ nav {
     align-items: center;
 }
 
-.logo { font-weight: 900; font-size: 1.5rem; letter-spacing: -1px; }
+.logo { font-weight: 900; font-size: 1rem; letter-spacing: -1px; }
 .logo span { color: var(--accent); }
 
 .nav-links { display: flex; list-style: none; gap: 30px; align-items: center; }
@@ -202,15 +202,10 @@ body:has(.project-img:active)::after {
 }
 
 .perfil_image{
-    
-    /*border: 8px solid gray;
-    */
-    
     box-shadow: 0 0 0 10px beige, 0 0 0 15px gainsboro;
-    margin: 20px; /* Necesario para que el borde no se corte */
-    
-
+    margin: 15px; /* Necesario para que el borde no se corte */
     outline-offset: 5px;
     float: right;
     width: 25%;
+
 }
