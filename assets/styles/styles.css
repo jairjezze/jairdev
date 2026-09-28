@@ -264,3 +264,12 @@ body:has(.project-img:active)::after {
  .project-img:active{
     animation-play-state: paused;
 }
+
+.link,
+.link:hover,
+.link:visited,
+.link:active {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
