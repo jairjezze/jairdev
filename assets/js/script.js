@@ -11,7 +11,8 @@ const translations = {
         "p2-desc": "Oilcanman is a website developed for a U.S.-based company that provides freight, maintenance, and roadside assistance services",
         "title-contact": "Get in touch",
         "info-loc": "Location: Puerto Cortes, Honduras",
-        "btn-send": "Send Message"
+        "btn-send": "Send Message",
+        "link1": "Click here"
     },
     es: {
         "nav-home": "Inicio",
@@ -25,7 +26,8 @@ const translations = {
         "p2-desc": "Oilcanman es un sitio web desarrollado para una empresa ubicada en Estados Unidos que brinda servicios de fletes, mantenimiento y rescate en carretera",
         "title-contact": "Contacto",
         "info-loc": "Ubicación: Puerto Cortes, Honduras",
-        "btn-send": "Enviar Mensaje"
+        "btn-send": "Enviar Mensaje",
+        "link1": "Click aqui para ver"
     }
 };
 
