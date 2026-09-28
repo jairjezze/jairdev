@@ -8,6 +8,7 @@ const translations = {
         "skills-title": "TECH STACK",
         "title-projects": "Featured Projects",
         "p1-desc": "Santos app is a web application that helps you find out the prices of products from registered stores. It allows anyone to have an account and register as a store or customer in a free and efficient experience.",
+        "p2-desc": "Oilcanman is a website developed for a U.S.-based company that provides freight, maintenance, and roadside assistance services",
         "title-contact": "Get in touch",
         "info-loc": "Location: Puerto Cortes, Honduras",
         "btn-send": "Send Message"
@@ -21,7 +22,7 @@ const translations = {
         "skills-title": "TECNOLOGÍAS",
         "title-projects": "Proyectos Destacados",
         "p1-desc": "Santos app es una aplicacion web que ayuda a saber los precios de los productos de las tiendas registradas, permite que todos puedan tener una cuenta, registrarse como tienda o clientes en una experiencia gratuita y eficiente.",
-        "p2-desc": "Oilcanman is a website developed for a U.S.-based company that provides freight, maintenance, and roadside assistance services",
+        "p2-desc": "Oilcanman es un sitio web desarrollado para una empresa ubicada en Estados Unidos que brinda servicios de fletes, mantenimiento y rescate en carretera",
         "title-contact": "Contacto",
         "info-loc": "Ubicación: Puerto Cortes, Honduras",
         "btn-send": "Enviar Mensaje"
